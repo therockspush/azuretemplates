@@ -138,7 +138,7 @@
           "count": 2
         },
         "plan": {
-          "name": "payg",
+          "name": "hourly",
           "product": "barracuda-ng-firewall",
           "publisher": "barracudanetworks"
         },
@@ -153,7 +153,7 @@
             "imageReference": {
               "publisher": "barracudanetworks",
               "offer": "barracuda-ng-firewall",
-              "sku": "payg",
+              "sku": "hourly",
               "version": "latest"
             },
             "osDisk": {
