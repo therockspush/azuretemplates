@@ -138,7 +138,7 @@
           "count": 2
         },
         "plan": {
-          "name": "byol",
+          "name": "payg",
           "product": "barracuda-ng-firewall",
           "publisher": "barracudanetworks"
         },
@@ -153,7 +153,7 @@
             "imageReference": {
               "publisher": "barracudanetworks",
               "offer": "barracuda-ng-firewall",
-              "sku": "byol",
+              "sku": "payg",
               "version": "latest"
             },
             "osDisk": {
